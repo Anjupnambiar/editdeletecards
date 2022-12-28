@@ -1,0 +1,46 @@
+body{
+    background-image: url("3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(37, 52, 14);
+}
+h1{
+    color: rgb(228, 70, 70);
+    font-size: 80px;
+    background-color: rgb(137, 236, 38);
+    text-align: center;
+}
+h3{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+h5{
+    background-color: rgb(140, 137, 234);
+    color: aliceblue;
+}
+
+ul{
+    margin: 0px;
+    background-color: rgb(49, 72, 125);
+    
+    }
+    ul li{
+    display: inline-block;
+    padding: 18px;
+    
+    }
+    ul li a:hover{
+    color: rgb(230, 32, 200);
+    }
+    ul li a{
+    color: rgb(251, 253, 252);
+    text-decoration: none;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    li{
+        font-size: 40px;
+        color: aliceblue;
+    }

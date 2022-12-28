@@ -1,0 +1,52 @@
+{
+  "employeelist": [
+    {
+      "createdBy": "Vinaya",
+      "updatedBy": "Vinaya",
+      "firstname": "Vivek",
+      "lastname": "Kumar",
+      "empid": "01734",
+      "mobileNum": 9876543217,
+      "jobTitle": "UI Developer",
+      "dateofjoining": "13-02-2020",
+      "addressDescription1": "432-C,Soundarya Apts",
+      "location": "Marthahalli",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pinCode": "560341",
+      "isActive": "Yes",
+      "title": "abcdef",
+      "body": "undefined"
+    },
+    {
+      "createdBy": "Vinaya",
+      "updatedBy": "Vinaya",
+      "firstname": "Abhishek",
+      "lastname": "Prakash",
+      "empid": "03334",
+      "mobileNum": 9856743217,
+      "jobTitle": "Full stack Developer",
+      "dateofjoining": "19-10-2021",
+      "addressDescription1": "102-B,Brindha Apts",
+      "location": "HSR Layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pinCode": "560346",
+      "isActive": "Yes"
+    },
+    {
+      "firstname": "",
+      "location": "",
+      "id": "IvBnjx2",
+      "title": "Name: Reshma",
+      "body": "Employer ID: undefined"
+    },
+    {
+      "firstname": "",
+      "location": "",
+      "id": "2NJNeJg"
+    }
+  ]
+}
